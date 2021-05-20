@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijeetchopkar12
+- 👋 Hi, I’m @Abhijeetchopkar
 - 👀 I’m interested in new technology
 - 🌱 I’m currently learning radio frequency & AI
 - 📫 How to reach me abhichopkar12@gmail.com
